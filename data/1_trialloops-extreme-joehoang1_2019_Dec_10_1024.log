@@ -1,0 +1,28 @@
+6.8284 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137ac2fd0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1379c99e8>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.8285 	EXP 	window1: recordFrameIntervals = False
+6.9941 	EXP 	window1: recordFrameIntervals = True
+7.2596 	EXP 	window1: recordFrameIntervals = False
+8.0363 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2128 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.4295 	EXP 	InstructionText: autoDraw = True
+13.3960 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+13.3964 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+13.3967 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/1.jpg')])
+13.4899 	EXP 	InstructionText: autoDraw = False
+13.4899 	EXP 	DHimage: image = 'pictures/1.jpg'
+13.4899 	EXP 	DHimage: autoDraw = True
+14.2256 	DATA 	Keypress: space
+16.3918 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/8.jpg')])
+16.4092 	EXP 	DHimage: autoDraw = False
+16.4092 	EXP 	DHimage: image = 'pictures/8.jpg'
+16.4092 	EXP 	DHimage: autoDraw = True
+19.3927 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/3.jpg')])
+19.4246 	EXP 	DHimage: autoDraw = False
+19.4246 	EXP 	DHimage: image = 'pictures/3.jpg'
+19.4246 	EXP 	DHimage: autoDraw = True
+22.3945 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/4.jpg')])
+22.4438 	EXP 	DHimage: autoDraw = False
+22.4438 	EXP 	DHimage: image = 'pictures/4.jpg'
+22.4438 	EXP 	DHimage: autoDraw = True
+22.6630 	DATA 	Keypress: escape
+22.7883 	EXP 	window1: mouseVisible = True

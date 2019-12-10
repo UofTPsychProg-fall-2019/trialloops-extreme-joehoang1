@@ -1,0 +1,7 @@
+﻿Image,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,InstructionText.started,InstructionText.stopped,RightImage.started,RightImage.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.started,key_resp.stopped,text.started,text.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+pictures/2.jpg,0,0,0,1,8.933106790296733,None,12.034090509172529,None,s,0,1.251875582151115,12.034090509172529,None,12.034090509172529,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,
+pictures/7.jpg,0,1,1,6,,,13.31707591097802,None,k,0,0.9637032919563353,13.31707591097802,None,13.31707591097802,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,
+pictures/1.jpg,0,2,2,0,,,14.333760924171656,None,s,0,0.3722159150056541,14.333760924171656,None,14.333760924171656,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,
+pictures/9.jpg,0,3,3,8,,,14.750754074193537,None,k,0,0.3389929081313312,14.750754074193537,None,14.750754074193537,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,
+pictures/8.jpg,0,4,4,7,,,15.150818091351539,None,s,0,0.16784969484433532,15.150818091351539,None,15.150818091351539,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,
+pictures/11.jpg,0,5,5,10,,,15.367613770999014,None,k,0,0.18730658991262317,15.367613770999014,None,15.367613770999014,None,1,001,2019_Dec_09_2249,trialloops-extreme-joehoang1,3.2.4,59.99420704376689,

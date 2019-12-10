@@ -1,0 +1,24 @@
+7.2069 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x13707bbe0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x136f84b00>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.2069 	EXP 	window1: recordFrameIntervals = False
+7.3724 	EXP 	window1: recordFrameIntervals = True
+7.5567 	EXP 	window1: recordFrameIntervals = False
+8.2596 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2618 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.4510 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255.,   0.,   0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.4733 	EXP 	InstructionText: autoDraw = True
+11.4603 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+11.4606 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+11.4609 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/7.jpg')])
+11.5390 	EXP 	InstructionText: autoDraw = False
+11.5390 	EXP 	DHimage: image = 'pictures/7.jpg'
+11.5390 	EXP 	DHimage: autoDraw = True
+11.5390 	EXP 	text: autoDraw = True
+14.4641 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/11.jpg')])
+14.4944 	EXP 	DHimage: autoDraw = False
+14.4944 	EXP 	text: autoDraw = False
+14.4944 	EXP 	DHimage: image = 'pictures/11.jpg'
+14.4944 	EXP 	DHimage: autoDraw = True
+14.4944 	EXP 	text: autoDraw = True
+17.4642 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/10.jpg')])
+17.4645 	ERROR 	Couldn't find image pictures/10.jpg; check path? (tried: /Users/joe/Documents/GitHub/trialloops-extreme-joehoang1/pictures/10.jpg)
+17.4786 	EXP 	window1: mouseVisible = True

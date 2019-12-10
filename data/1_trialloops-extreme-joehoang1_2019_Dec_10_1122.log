@@ -1,0 +1,18 @@
+8.3726 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137003c88>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x136f0fba8>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3727 	EXP 	window1: recordFrameIntervals = False
+8.5392 	EXP 	window1: recordFrameIntervals = True
+8.7896 	EXP 	window1: recordFrameIntervals = False
+9.6699 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.8789 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+10.0754 	EXP 	Created fb = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fb', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+10.1063 	EXP 	InstructionText: autoDraw = True
+10.6593 	DATA 	Keypress: a
+12.0183 	EXP 	Imported Images.csv as conditions, 12 conditions, 2 params
+12.0186 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=12, seed=None
+12.0190 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/2.jpg'), ('corrAns', 's')])
+12.1117 	DATA 	Keypress: space
+12.1273 	EXP 	InstructionText: autoDraw = False
+12.1273 	EXP 	DHimage: image = 'pictures/2.jpg'
+12.1273 	EXP 	DHimage: autoDraw = True
+12.6458 	DATA 	Keypress: a
+14.3588 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,95 @@
+8.3639 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1373c5d30>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x137110860>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3640 	EXP 	window1: recordFrameIntervals = False
+8.5300 	EXP 	window1: recordFrameIntervals = True
+8.7134 	EXP 	window1: recordFrameIntervals = False
+9.5075 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.6850 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+9.8632 	EXP 	Created fb = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fb', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.8815 	EXP 	InstructionText: autoDraw = True
+11.1203 	EXP 	Imported Images.csv as conditions, 12 conditions, 2 params
+11.1207 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=12, seed=None
+11.1210 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/9.jpg'), ('corrAns', 'k')])
+11.1941 	DATA 	Keypress: space
+11.2141 	EXP 	InstructionText: autoDraw = False
+11.2141 	EXP 	DHimage: image = 'pictures/9.jpg'
+11.2141 	EXP 	DHimage: autoDraw = True
+11.8157 	DATA 	Keypress: s
+11.8308 	EXP 	DHimage: autoDraw = False
+11.8308 	EXP 	fb: text = 'You are incorrect. Please try harder.'
+11.8308 	EXP 	fb: autoDraw = True
+13.8049 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/5.jpg'), ('corrAns', 's')])
+13.8537 	EXP 	fb: autoDraw = False
+13.8537 	EXP 	DHimage: image = 'pictures/5.jpg'
+13.8537 	EXP 	DHimage: autoDraw = True
+14.2228 	DATA 	Keypress: k
+14.2352 	EXP 	DHimage: autoDraw = False
+14.2352 	EXP 	fb: text = 'You are incorrect. Please try harder.'
+14.2352 	EXP 	fb: autoDraw = True
+16.1264 	DATA 	Keypress: k
+16.2223 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/2.jpg'), ('corrAns', 's')])
+16.2714 	EXP 	fb: autoDraw = False
+16.2714 	EXP 	DHimage: image = 'pictures/2.jpg'
+16.2714 	EXP 	DHimage: autoDraw = True
+16.6058 	DATA 	Keypress: k
+16.6197 	EXP 	DHimage: autoDraw = False
+16.6197 	EXP 	fb: text = 'You are incorrect. Please try harder.'
+16.6197 	EXP 	fb: autoDraw = True
+18.6069 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/9.jpg'), ('corrAns', 'k')])
+18.6241 	EXP 	fb: autoDraw = False
+18.6241 	EXP 	DHimage: image = 'pictures/9.jpg'
+18.6241 	EXP 	DHimage: autoDraw = True
+19.0068 	DATA 	Keypress: k
+19.0215 	EXP 	DHimage: autoDraw = False
+19.0215 	EXP 	fb: text = 'You are correct! Good job!'
+19.0215 	EXP 	fb: autoDraw = True
+21.0078 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/10.jpg'), ('corrAns', 'k')])
+21.0400 	EXP 	fb: autoDraw = False
+21.0400 	EXP 	DHimage: image = 'pictures/10.jpg'
+21.0400 	EXP 	DHimage: autoDraw = True
+21.3603 	DATA 	Keypress: k
+21.3725 	EXP 	DHimage: autoDraw = False
+21.3725 	EXP 	fb: text = 'You are correct! Good job!'
+21.3725 	EXP 	fb: autoDraw = True
+23.3590 	EXP 	New trial (rep=0, index=5): OrderedDict([('Image', 'pictures/3.jpg'), ('corrAns', 's')])
+23.3920 	EXP 	fb: autoDraw = False
+23.3920 	EXP 	fb: autoDraw = False
+23.3920 	EXP 	DHimage: image = 'pictures/3.jpg'
+23.3920 	EXP 	DHimage: autoDraw = True
+23.6521 	DATA 	Keypress: k
+23.6747 	EXP 	DHimage: autoDraw = False
+23.6747 	EXP 	fb: text = 'You are incorrect. Please try harder.'
+23.6747 	EXP 	fb: autoDraw = True
+25.6433 	EXP 	New trial (rep=0, index=6): OrderedDict([('Image', 'pictures/4.jpg'), ('corrAns', 's')])
+25.6925 	EXP 	fb: autoDraw = False
+25.6925 	EXP 	DHimage: image = 'pictures/4.jpg'
+25.6925 	EXP 	DHimage: autoDraw = True
+26.0186 	DATA 	Keypress: s
+26.0417 	EXP 	DHimage: autoDraw = False
+26.0417 	EXP 	fb: text = 'You are correct! Good job!'
+26.0417 	EXP 	fb: autoDraw = True
+28.0110 	EXP 	New trial (rep=0, index=7): OrderedDict([('Image', 'pictures/10.jpg'), ('corrAns', 'k')])
+28.0276 	EXP 	fb: autoDraw = False
+28.0276 	EXP 	DHimage: image = 'pictures/10.jpg'
+28.0276 	EXP 	DHimage: autoDraw = True
+28.2463 	DATA 	Keypress: k
+28.2589 	EXP 	DHimage: autoDraw = False
+28.2589 	EXP 	fb: text = 'You are correct! Good job!'
+28.2589 	EXP 	fb: autoDraw = True
+29.4303 	DATA 	Keypress: s
+29.8125 	DATA 	Keypress: k
+30.0303 	DATA 	Keypress: s
+30.2457 	EXP 	New trial (rep=0, index=8): OrderedDict([('Image', 'pictures/11.jpg'), ('corrAns', 'k')])
+30.2637 	EXP 	fb: autoDraw = False
+30.2637 	EXP 	fb: autoDraw = False
+30.2637 	EXP 	DHimage: image = 'pictures/11.jpg'
+30.2637 	EXP 	DHimage: autoDraw = True
+30.3542 	DATA 	Keypress: s
+30.3773 	EXP 	DHimage: autoDraw = False
+30.3773 	EXP 	fb: text = 'You are incorrect. Please try harder.'
+30.3773 	EXP 	fb: autoDraw = True
+32.3454 	EXP 	New trial (rep=0, index=9): OrderedDict([('Image', 'pictures/8.jpg'), ('corrAns', 'k')])
+32.3631 	EXP 	fb: autoDraw = False
+32.3631 	EXP 	DHimage: image = 'pictures/8.jpg'
+32.3631 	EXP 	DHimage: autoDraw = True
+35.4303 	DATA 	Keypress: escape
+35.4746 	EXP 	window1: mouseVisible = True

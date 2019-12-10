@@ -1,0 +1,4 @@
+﻿Image,corrAns,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,InstructionText.started,InstructionText.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.started,key_resp_2.stopped,DHimage.started,DHimage.stopped,response.keys,response.corr,response.rt,response.started,response.stopped,fb.started,fb.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,9.839618973899633,None,space,2.4088373901322484,9.839618973899633,None,,,,,,,,,,1,001,2019_Dec_10_1135,trialloops-extreme-joehoang1,3.2.4,59.976110418661435,
+pictures/3.jpg,s,0,0,0,2,,,,,,,12.360219812951982,None,s,1,0.37220890121534467,12.360219812951982,None,12.774435624945909,None,1,001,2019_Dec_10_1135,trialloops-extreme-joehoang1,3.2.4,59.976110418661435,
+pictures/8.jpg,k,0,1,1,7,,,,,,,14.766728220973164,None,k,1,0.1545922881923616,14.766728220973164,None,14.948039796203375,None,1,001,2019_Dec_10_1135,trialloops-extreme-joehoang1,3.2.4,59.976110418661435,

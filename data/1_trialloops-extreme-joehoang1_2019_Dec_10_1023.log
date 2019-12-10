@@ -1,0 +1,63 @@
+7.3046 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137cc3b38>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x137aaaa58>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.3047 	EXP 	window1: recordFrameIntervals = False
+7.4734 	EXP 	window1: recordFrameIntervals = True
+7.6566 	EXP 	window1: recordFrameIntervals = False
+8.5338 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.7111 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.9084 	EXP 	InstructionText: autoDraw = True
+13.7859 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+13.7863 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+13.7866 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/12.jpg')])
+13.8544 	DATA 	Keypress: space
+13.8661 	EXP 	InstructionText: autoDraw = False
+13.8661 	EXP 	DHimage: image = 'pictures/12.jpg'
+13.8661 	EXP 	DHimage: autoDraw = True
+15.3968 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/7.jpg')])
+15.4038 	DATA 	Keypress: s
+15.4133 	EXP 	DHimage: autoDraw = False
+15.4133 	EXP 	DHimage: image = 'pictures/7.jpg'
+15.4133 	EXP 	DHimage: autoDraw = True
+15.7477 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/1.jpg')])
+15.7716 	DATA 	Keypress: k
+15.7835 	EXP 	DHimage: autoDraw = False
+15.7835 	EXP 	DHimage: image = 'pictures/1.jpg'
+15.7835 	EXP 	DHimage: autoDraw = True
+15.8973 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/2.jpg')])
+15.9235 	DATA 	Keypress: s
+15.9472 	EXP 	DHimage: autoDraw = False
+15.9472 	EXP 	DHimage: image = 'pictures/2.jpg'
+15.9472 	EXP 	DHimage: autoDraw = True
+16.0647 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/5.jpg')])
+16.0939 	DATA 	Keypress: k
+16.1139 	EXP 	DHimage: autoDraw = False
+16.1139 	EXP 	DHimage: image = 'pictures/5.jpg'
+16.1139 	EXP 	DHimage: autoDraw = True
+16.1322 	EXP 	New trial (rep=0, index=5): OrderedDict([('Image', 'pictures/4.jpg')])
+16.1582 	DATA 	Keypress: s
+16.1805 	EXP 	DHimage: autoDraw = False
+16.1805 	EXP 	DHimage: image = 'pictures/4.jpg'
+16.1805 	EXP 	DHimage: autoDraw = True
+16.3303 	EXP 	New trial (rep=0, index=6): OrderedDict([('Image', 'pictures/6.jpg')])
+16.3610 	DATA 	Keypress: k
+16.3622 	DATA 	Keypress: s
+16.3802 	EXP 	DHimage: autoDraw = False
+16.3802 	EXP 	DHimage: image = 'pictures/6.jpg'
+16.3802 	EXP 	DHimage: autoDraw = True
+16.5310 	EXP 	New trial (rep=0, index=7): OrderedDict([('Image', 'pictures/9.jpg')])
+16.5418 	DATA 	Keypress: s
+16.5629 	EXP 	DHimage: autoDraw = False
+16.5629 	EXP 	DHimage: image = 'pictures/9.jpg'
+16.5629 	EXP 	DHimage: autoDraw = True
+16.7482 	EXP 	New trial (rep=0, index=8): OrderedDict([('Image', 'pictures/3.jpg')])
+16.7689 	DATA 	Keypress: k
+16.7803 	EXP 	DHimage: autoDraw = False
+16.7803 	EXP 	DHimage: image = 'pictures/3.jpg'
+16.7803 	EXP 	DHimage: autoDraw = True
+16.9309 	EXP 	New trial (rep=0, index=9): OrderedDict([('Image', 'pictures/8.jpg')])
+16.9387 	DATA 	Keypress: s
+16.9496 	EXP 	DHimage: autoDraw = False
+16.9496 	EXP 	DHimage: image = 'pictures/8.jpg'
+16.9496 	EXP 	DHimage: autoDraw = True
+17.0973 	EXP 	New trial (rep=0, index=10): OrderedDict([('Image', 'pictures/10.jpg')])
+17.0977 	ERROR 	Couldn't find image pictures/10.jpg; check path? (tried: /Users/joe/Documents/GitHub/trialloops-extreme-joehoang1/pictures/10.jpg)
+17.1117 	EXP 	window1: mouseVisible = True

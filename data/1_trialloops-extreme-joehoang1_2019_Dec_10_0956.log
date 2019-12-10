@@ -1,0 +1,80 @@
+8.7375 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137303b70>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13720ba90>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.7376 	EXP 	window1: recordFrameIntervals = False
+8.9034 	EXP 	window1: recordFrameIntervals = True
+9.0868 	EXP 	window1: recordFrameIntervals = False
+9.8881 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.8918 	EXP 	Created RightImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='RightImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+10.0806 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255.,   0.,   0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.0844 	DATA 	Mouse: wheel shift=(0,0), pos=(264,559)
+10.1040 	EXP 	InstructionText: autoDraw = True
+10.5545 	DATA 	Mouse: wheel shift=(0,0), pos=(264,559)
+11.1046 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2058 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2071 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2206 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2379 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2547 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.2713 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.2881 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.3046 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.3206 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.3389 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.3555 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.3710 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.3874 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.4042 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.4213 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.4382 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.4548 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.4714 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.4872 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.5049 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.5212 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.5379 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.5544 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.5711 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.5891 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.5895 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6055 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6215 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6382 	DATA 	Mouse: wheel shift=(0,1), pos=(264,562)
+11.6548 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6768 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6772 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.6940 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+11.7100 	DATA 	Mouse: wheel shift=(0,0), pos=(264,562)
+13.1175 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+13.1185 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+13.1188 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/9.jpg')])
+13.2294 	EXP 	InstructionText: autoDraw = False
+13.2294 	EXP 	RightImage: image = 'pictures/9.jpg'
+13.2294 	EXP 	RightImage: autoDraw = True
+13.2294 	EXP 	text: autoDraw = True
+16.0946 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/12.jpg')])
+16.1098 	EXP 	RightImage: autoDraw = False
+16.1098 	EXP 	text: autoDraw = False
+16.1098 	EXP 	RightImage: image = 'pictures/12.jpg'
+16.1098 	EXP 	RightImage: autoDraw = True
+16.1098 	EXP 	text: autoDraw = True
+19.0952 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/8.jpg')])
+19.1119 	EXP 	RightImage: autoDraw = False
+19.1119 	EXP 	text: autoDraw = False
+19.1119 	EXP 	RightImage: image = 'pictures/8.jpg'
+19.1119 	EXP 	RightImage: autoDraw = True
+19.1119 	EXP 	text: autoDraw = True
+22.0974 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/4.jpg')])
+22.1459 	EXP 	RightImage: autoDraw = False
+22.1459 	EXP 	text: autoDraw = False
+22.1459 	EXP 	RightImage: image = 'pictures/4.jpg'
+22.1459 	EXP 	RightImage: autoDraw = True
+22.1459 	EXP 	text: autoDraw = True
+25.0983 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/11.jpg')])
+25.1304 	EXP 	RightImage: autoDraw = False
+25.1304 	EXP 	text: autoDraw = False
+25.1304 	EXP 	RightImage: image = 'pictures/11.jpg'
+25.1304 	EXP 	RightImage: autoDraw = True
+25.1304 	EXP 	text: autoDraw = True
+26.6822 	DATA 	Mouse: Left button down, pos=(235,398)
+26.9656 	DATA 	Mouse:  Left button up, pos=(235,398)
+27.4357 	DATA 	Keypress: escape
+27.6452 	EXP 	window1: mouseVisible = True

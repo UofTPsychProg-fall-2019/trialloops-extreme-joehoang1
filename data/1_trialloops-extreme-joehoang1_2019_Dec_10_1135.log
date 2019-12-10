@@ -1,0 +1,54 @@
+8.2899 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x13725fd30>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13714dc50>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.2900 	EXP 	window1: recordFrameIntervals = False
+8.4562 	EXP 	window1: recordFrameIntervals = True
+8.6397 	EXP 	window1: recordFrameIntervals = False
+9.4786 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.6506 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+9.8243 	EXP 	Created fb = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fb', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+9.8396 	EXP 	InstructionText: autoDraw = True
+10.5929 	DATA 	Keypress: s
+12.2649 	EXP 	Imported Images.csv as conditions, 12 conditions, 2 params
+12.2653 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=12, seed=None
+12.2657 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/3.jpg'), ('corrAns', 's')])
+12.3480 	DATA 	Keypress: space
+12.3602 	EXP 	InstructionText: autoDraw = False
+12.3602 	EXP 	DHimage: image = 'pictures/3.jpg'
+12.3602 	EXP 	DHimage: autoDraw = True
+12.7574 	DATA 	Keypress: s
+12.7744 	EXP 	DHimage: autoDraw = False
+12.7744 	EXP 	fb: text = 'You are correct! Good job!'
+12.7744 	EXP 	fb: autoDraw = True
+13.3159 	DATA 	Keypress: space
+13.6161 	DATA 	Keypress: s
+14.0192 	DATA 	Keypress: s
+14.5332 	DATA 	Keypress: k
+14.7333 	DATA 	Keypress: s
+14.7489 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/8.jpg'), ('corrAns', 'k')])
+14.7667 	EXP 	fb: autoDraw = False
+14.7667 	EXP 	DHimage: image = 'pictures/8.jpg'
+14.7667 	EXP 	DHimage: autoDraw = True
+14.9343 	DATA 	Keypress: k
+14.9480 	EXP 	DHimage: autoDraw = False
+14.9480 	EXP 	fb: text = 'You are correct! Good job!'
+14.9480 	EXP 	fb: autoDraw = True
+15.0335 	DATA 	Keypress: s
+15.2169 	DATA 	Keypress: k
+15.2837 	DATA 	Keypress: s
+16.9331 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/3.jpg'), ('corrAns', 's')])
+16.9656 	EXP 	fb: autoDraw = False
+16.9656 	EXP 	DHimage: image = 'pictures/3.jpg'
+16.9656 	EXP 	DHimage: autoDraw = True
+18.8854 	DATA 	Keypress: escape
+19.0769 	EXP 	window1: mouseVisible = True
+7.2430 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x136e7fd30>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13694f860>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.2431 	EXP 	window1: recordFrameIntervals = False
+7.4092 	EXP 	window1: recordFrameIntervals = True
+7.5928 	EXP 	window1: recordFrameIntervals = False
+8.3102 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.4896 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.6731 	EXP 	Created fb = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fb', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+8.7466 	EXP 	InstructionText: autoDraw = True
+15.1083 	DATA 	Mouse: Left button down, pos=(52,714)
+15.2248 	DATA 	Mouse:  Left button up, pos=(52,714)
+15.3923 	DATA 	Keypress: escape
+15.5668 	EXP 	window1: mouseVisible = True

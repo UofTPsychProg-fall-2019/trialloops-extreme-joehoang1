@@ -1,0 +1,60 @@
+9.9480 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+10.8454 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137087f98>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x136f8f9b0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.8454 	EXP 	window1: recordFrameIntervals = False
+11.0128 	EXP 	window1: recordFrameIntervals = True
+11.1958 	EXP 	window1: recordFrameIntervals = False
+11.9906 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.9933 	EXP 	Created RightImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='RightImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+12.1886 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255.,   0.,   0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.2181 	EXP 	InstructionText: autoDraw = True
+13.1527 	DATA 	Keypress: space
+15.2272 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+15.2290 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+15.2294 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/9.jpg')])
+15.3222 	EXP 	InstructionText: autoDraw = False
+15.3222 	EXP 	RightImage: image = 'pictures/9.jpg'
+15.3222 	EXP 	RightImage: autoDraw = True
+15.3222 	EXP 	text: autoDraw = True
+18.3396 	EXP 	text: autoDraw = False
+20.1475 	DATA 	Keypress: space
+21.7984 	DATA 	Keypress: a
+22.3445 	DATA 	Keypress: s
+23.0407 	DATA 	Keypress: s
+23.2814 	DATA 	Keypress: k
+23.4441 	DATA 	Keypress: s
+23.6317 	DATA 	Keypress: k
+23.7291 	DATA 	Keypress: s
+23.8912 	DATA 	Keypress: k
+23.9287 	DATA 	Keypress: s
+24.1105 	DATA 	Keypress: k
+24.1649 	DATA 	Keypress: s
+24.3421 	DATA 	Keypress: k
+24.3624 	DATA 	Keypress: s
+24.5816 	DATA 	Keypress: k
+24.7786 	DATA 	Keypress: s
+25.1290 	DATA 	Keypress: s
+25.3265 	DATA 	Keypress: s
+25.5301 	DATA 	Keypress: s
+25.9597 	DATA 	Keypress: k
+26.1630 	DATA 	Keypress: s
+26.3655 	DATA 	Keypress: k
+26.4806 	DATA 	Keypress: s
+26.6969 	DATA 	Keypress: k
+26.7794 	DATA 	Keypress: s
+26.9807 	DATA 	Keypress: k
+27.1591 	DATA 	Keypress: s
+27.3448 	DATA 	Keypress: k
+27.4818 	DATA 	Keypress: s
+27.6497 	DATA 	Keypress: k
+27.7326 	DATA 	Keypress: s
+27.9321 	DATA 	Keypress: k
+27.9789 	DATA 	Keypress: s
+28.2125 	DATA 	Keypress: k
+28.2776 	DATA 	Keypress: s
+28.4637 	DATA 	Keypress: k
+28.5302 	DATA 	Keypress: s
+28.7944 	DATA 	Keypress: space
+29.1012 	DATA 	Keypress: s
+29.2686 	DATA 	Keypress: k
+29.6849 	DATA 	Keypress: escape
+30.1327 	EXP 	window1: mouseVisible = True

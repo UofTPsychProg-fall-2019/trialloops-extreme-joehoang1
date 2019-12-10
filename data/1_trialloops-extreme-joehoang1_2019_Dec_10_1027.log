@@ -1,0 +1,53 @@
+7.2330 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137003b38>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x136f0aa58>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.2331 	EXP 	window1: recordFrameIntervals = False
+7.3990 	EXP 	window1: recordFrameIntervals = True
+7.5826 	EXP 	window1: recordFrameIntervals = False
+8.3821 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.5639 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.7481 	EXP 	InstructionText: autoDraw = True
+9.9058 	EXP 	Imported Images.csv as conditions, 12 conditions, 2 params
+9.9061 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+9.9064 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/7.jpg'), ('corrAns', 'k')])
+9.9720 	DATA 	Keypress: space
+9.9839 	EXP 	InstructionText: autoDraw = False
+9.9839 	EXP 	DHimage: image = 'pictures/7.jpg'
+9.9839 	EXP 	DHimage: autoDraw = True
+10.6172 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/11.jpg'), ('corrAns', 'k')])
+10.6239 	DATA 	Keypress: s
+10.6351 	EXP 	DHimage: autoDraw = False
+10.6351 	EXP 	DHimage: image = 'pictures/11.jpg'
+10.6351 	EXP 	DHimage: autoDraw = True
+11.1676 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/8.jpg'), ('corrAns', 'k')])
+11.1768 	DATA 	Keypress: s
+11.2001 	EXP 	DHimage: autoDraw = False
+11.2001 	EXP 	DHimage: image = 'pictures/8.jpg'
+11.2001 	EXP 	DHimage: autoDraw = True
+11.5335 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/3.jpg'), ('corrAns', 's')])
+11.5593 	DATA 	Keypress: k
+11.5837 	EXP 	DHimage: autoDraw = False
+11.5837 	EXP 	DHimage: image = 'pictures/3.jpg'
+11.5837 	EXP 	DHimage: autoDraw = True
+11.7332 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/2.jpg'), ('corrAns', 's')])
+11.7583 	DATA 	Keypress: s
+11.7842 	EXP 	DHimage: autoDraw = False
+11.7842 	EXP 	DHimage: image = 'pictures/2.jpg'
+11.7842 	EXP 	DHimage: autoDraw = True
+11.9343 	EXP 	New trial (rep=0, index=5): OrderedDict([('Image', 'pictures/4.jpg'), ('corrAns', 's')])
+11.9603 	DATA 	Keypress: k
+11.9838 	EXP 	DHimage: autoDraw = False
+11.9838 	EXP 	DHimage: image = 'pictures/4.jpg'
+11.9838 	EXP 	DHimage: autoDraw = True
+12.0338 	EXP 	New trial (rep=0, index=6): OrderedDict([('Image', 'pictures/5.jpg'), ('corrAns', 's')])
+12.0610 	DATA 	Keypress: s
+12.0843 	EXP 	DHimage: autoDraw = False
+12.0843 	EXP 	DHimage: image = 'pictures/5.jpg'
+12.0843 	EXP 	DHimage: autoDraw = True
+12.2178 	EXP 	New trial (rep=0, index=7): OrderedDict([('Image', 'pictures/6.jpg'), ('corrAns', 's')])
+12.2477 	DATA 	Keypress: k
+12.2678 	EXP 	DHimage: autoDraw = False
+12.2678 	EXP 	DHimage: image = 'pictures/6.jpg'
+12.2678 	EXP 	DHimage: autoDraw = True
+12.2706 	DATA 	Keypress: s
+12.5011 	EXP 	New trial (rep=0, index=8): OrderedDict([('Image', 'pictures/10.jpg'), ('corrAns', 'k')])
+12.5015 	ERROR 	Couldn't find image pictures/10.jpg; check path? (tried: /Users/joe/Documents/GitHub/trialloops-extreme-joehoang1/pictures/10.jpg)
+12.5146 	EXP 	window1: mouseVisible = True

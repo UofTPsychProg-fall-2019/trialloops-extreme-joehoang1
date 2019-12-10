@@ -1,0 +1,91 @@
+6.5193 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.5070 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x136daff98>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x135e455c0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.5071 	EXP 	window1: recordFrameIntervals = False
+7.6732 	EXP 	window1: recordFrameIntervals = True
+7.7711 	WARNING 	t of last frame was 31.71ms (=1/31)
+7.9396 	EXP 	window1: recordFrameIntervals = False
+8.7503 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.7527 	EXP 	Created RightImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='RightImage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.9511 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='red', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255.,   0.,   0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9755 	EXP 	InstructionText: autoDraw = True
+9.6984 	DATA 	Keypress: space
+11.9707 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+11.9711 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+11.9715 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/9.jpg')])
+12.0613 	EXP 	InstructionText: autoDraw = False
+12.0613 	EXP 	RightImage: image = 'pictures/9.jpg'
+12.0613 	EXP 	RightImage: autoDraw = True
+12.0613 	EXP 	text: autoDraw = True
+14.9479 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/8.jpg')])
+14.9551 	DATA 	Keypress: s
+14.9783 	EXP 	RightImage: autoDraw = False
+14.9783 	EXP 	text: autoDraw = False
+14.9783 	EXP 	RightImage: image = 'pictures/8.jpg'
+14.9783 	EXP 	RightImage: autoDraw = True
+14.9783 	EXP 	text: autoDraw = True
+15.9711 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/12.jpg')])
+15.9802 	DATA 	Keypress: s
+15.9967 	EXP 	RightImage: autoDraw = False
+15.9967 	EXP 	text: autoDraw = False
+15.9967 	EXP 	RightImage: image = 'pictures/12.jpg'
+15.9967 	EXP 	RightImage: autoDraw = True
+15.9967 	EXP 	text: autoDraw = True
+16.4005 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/4.jpg')])
+16.4304 	DATA 	Keypress: s
+16.4476 	EXP 	RightImage: autoDraw = False
+16.4476 	EXP 	text: autoDraw = False
+16.4476 	EXP 	RightImage: image = 'pictures/4.jpg'
+16.4476 	EXP 	RightImage: autoDraw = True
+16.4476 	EXP 	text: autoDraw = True
+16.8642 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/5.jpg')])
+16.8912 	DATA 	Keypress: s
+16.9125 	EXP 	RightImage: autoDraw = False
+16.9125 	EXP 	text: autoDraw = False
+16.9125 	EXP 	RightImage: image = 'pictures/5.jpg'
+16.9125 	EXP 	RightImage: autoDraw = True
+16.9125 	EXP 	text: autoDraw = True
+17.2482 	EXP 	New trial (rep=0, index=5): OrderedDict([('Image', 'pictures/3.jpg')])
+17.2691 	DATA 	Keypress: s
+17.2861 	EXP 	RightImage: autoDraw = False
+17.2861 	EXP 	text: autoDraw = False
+17.2861 	EXP 	RightImage: image = 'pictures/3.jpg'
+17.2861 	EXP 	RightImage: autoDraw = True
+17.2861 	EXP 	text: autoDraw = True
+17.5996 	EXP 	New trial (rep=0, index=6): OrderedDict([('Image', 'pictures/6.jpg')])
+17.6306 	DATA 	Keypress: s
+17.6480 	EXP 	RightImage: autoDraw = False
+17.6480 	EXP 	text: autoDraw = False
+17.6480 	EXP 	RightImage: image = 'pictures/6.jpg'
+17.6480 	EXP 	RightImage: autoDraw = True
+17.6480 	EXP 	text: autoDraw = True
+17.9314 	EXP 	New trial (rep=0, index=7): OrderedDict([('Image', 'pictures/2.jpg')])
+17.9573 	DATA 	Keypress: s
+17.9795 	EXP 	RightImage: autoDraw = False
+17.9795 	EXP 	text: autoDraw = False
+17.9795 	EXP 	RightImage: image = 'pictures/2.jpg'
+17.9795 	EXP 	RightImage: autoDraw = True
+17.9795 	EXP 	text: autoDraw = True
+18.2715 	EXP 	New trial (rep=0, index=8): OrderedDict([('Image', 'pictures/1.jpg')])
+18.2926 	DATA 	Keypress: s
+18.3130 	EXP 	RightImage: autoDraw = False
+18.3130 	EXP 	text: autoDraw = False
+18.3130 	EXP 	RightImage: image = 'pictures/1.jpg'
+18.3130 	EXP 	RightImage: autoDraw = True
+18.3130 	EXP 	text: autoDraw = True
+18.6311 	EXP 	New trial (rep=0, index=9): OrderedDict([('Image', 'pictures/11.jpg')])
+18.6388 	DATA 	Keypress: s
+18.6629 	EXP 	RightImage: autoDraw = False
+18.6629 	EXP 	text: autoDraw = False
+18.6629 	EXP 	RightImage: image = 'pictures/11.jpg'
+18.6629 	EXP 	RightImage: autoDraw = True
+18.6629 	EXP 	text: autoDraw = True
+18.9366 	EXP 	New trial (rep=0, index=10): OrderedDict([('Image', 'pictures/7.jpg')])
+18.9432 	DATA 	Keypress: s
+18.9631 	EXP 	RightImage: autoDraw = False
+18.9631 	EXP 	text: autoDraw = False
+18.9631 	EXP 	RightImage: image = 'pictures/7.jpg'
+18.9631 	EXP 	RightImage: autoDraw = True
+18.9631 	EXP 	text: autoDraw = True
+19.2522 	EXP 	New trial (rep=0, index=11): OrderedDict([('Image', 'pictures/10.jpg')])
+19.2526 	ERROR 	Couldn't find image pictures/10.jpg; check path? (tried: /Users/joe/Documents/GitHub/trialloops-extreme-joehoang1/pictures/10.jpg)
+19.5409 	EXP 	window1: mouseVisible = True

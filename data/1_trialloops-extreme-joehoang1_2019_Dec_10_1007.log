@@ -1,0 +1,52 @@
+7.0622 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x137a58fd0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13797f630>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 250.0], screen=0, size=array([1600, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0622 	EXP 	window1: recordFrameIntervals = False
+7.2268 	EXP 	window1: recordFrameIntervals = True
+7.4115 	EXP 	window1: recordFrameIntervals = False
+8.1971 	EXP 	Created InstructionText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='InstructionText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.1997 	EXP 	Created DHimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='DHimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.4468 	EXP 	InstructionText: autoDraw = True
+9.7820 	DATA 	Keypress: space
+11.4093 	EXP 	Imported Images.csv as conditions, 12 conditions, 1 params
+11.4097 	EXP 	Created sequence: fullRandom, trialTypes=12, nReps=1, seed=None
+11.4099 	EXP 	New trial (rep=0, index=0): OrderedDict([('Image', 'pictures/11.jpg')])
+11.5235 	EXP 	InstructionText: autoDraw = False
+11.5235 	EXP 	DHimage: image = 'pictures/11.jpg'
+11.5235 	EXP 	DHimage: autoDraw = True
+13.2041 	EXP 	New trial (rep=0, index=1): OrderedDict([('Image', 'pictures/2.jpg')])
+13.2336 	DATA 	Keypress: s
+13.2535 	EXP 	DHimage: autoDraw = False
+13.2535 	EXP 	DHimage: image = 'pictures/2.jpg'
+13.2535 	EXP 	DHimage: autoDraw = True
+14.1541 	EXP 	New trial (rep=0, index=2): OrderedDict([('Image', 'pictures/8.jpg')])
+14.1630 	DATA 	Keypress: k
+14.1743 	EXP 	DHimage: autoDraw = False
+14.1743 	EXP 	DHimage: image = 'pictures/8.jpg'
+14.1743 	EXP 	DHimage: autoDraw = True
+14.5715 	EXP 	New trial (rep=0, index=3): OrderedDict([('Image', 'pictures/3.jpg')])
+14.5933 	DATA 	Keypress: s
+14.6046 	EXP 	DHimage: autoDraw = False
+14.6046 	EXP 	DHimage: image = 'pictures/3.jpg'
+14.6046 	EXP 	DHimage: autoDraw = True
+14.7384 	EXP 	New trial (rep=0, index=4): OrderedDict([('Image', 'pictures/12.jpg')])
+14.7474 	DATA 	Keypress: k
+14.7706 	EXP 	DHimage: autoDraw = False
+14.7706 	EXP 	DHimage: image = 'pictures/12.jpg'
+14.7706 	EXP 	DHimage: autoDraw = True
+14.9219 	EXP 	New trial (rep=0, index=5): OrderedDict([('Image', 'pictures/7.jpg')])
+14.9285 	DATA 	Keypress: s
+14.9382 	EXP 	DHimage: autoDraw = False
+14.9382 	EXP 	DHimage: image = 'pictures/7.jpg'
+14.9382 	EXP 	DHimage: autoDraw = True
+15.0555 	EXP 	New trial (rep=0, index=6): OrderedDict([('Image', 'pictures/9.jpg')])
+15.0620 	DATA 	Keypress: k
+15.0717 	EXP 	DHimage: autoDraw = False
+15.0717 	EXP 	DHimage: image = 'pictures/9.jpg'
+15.0717 	EXP 	DHimage: autoDraw = True
+15.1722 	EXP 	New trial (rep=0, index=7): OrderedDict([('Image', 'pictures/1.jpg')])
+15.1962 	DATA 	Keypress: s
+15.2080 	EXP 	DHimage: autoDraw = False
+15.2080 	EXP 	DHimage: image = 'pictures/1.jpg'
+15.2080 	EXP 	DHimage: autoDraw = True
+15.3062 	EXP 	New trial (rep=0, index=8): OrderedDict([('Image', 'pictures/10.jpg')])
+15.3065 	ERROR 	Couldn't find image pictures/10.jpg; check path? (tried: /Users/joe/Documents/GitHub/trialloops-extreme-joehoang1/pictures/10.jpg)
+15.3190 	EXP 	window1: mouseVisible = True
